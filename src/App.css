@@ -1,0 +1,19 @@
+.form-container{
+    width:400px;
+    margin:auto;
+}
+
+.ui.teal.button:focus,
+.ui.teal.buttons .button:focus{
+    background-color: #00b5ad;
+}
+
+.head{
+    font-size: 30px;
+    padding: 2px;
+    text-shadow: 2px 2px 2px #645f5f;
+    border: 5px solid rgb(0, 0, 0);
+    border-top-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
