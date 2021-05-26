@@ -11,7 +11,7 @@ function Home(){
     const { loading, data: { getPosts: posts } = {} } = useQuery( FETCH_POSTS_QUERY );
  
  return(
-    <Grid columns={3}>
+    <Grid columns={2}>
         <Grid.Row centered>
             <h1 class="head">CWC SOCINT</h1>
         </Grid.Row>

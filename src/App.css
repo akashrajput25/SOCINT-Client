@@ -17,3 +17,8 @@
     border-bottom-right-radius: 15px;
 }
 
+@media only screen and (max-width: 1080px) {
+    .form-container{
+        width: 200px;
+    }
+  }
